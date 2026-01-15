@@ -13,7 +13,7 @@ npm install
 npm run dev
 
 ```
-Features
+## Features
 
   -Responsive SaaS Landing Page
 
@@ -27,7 +27,7 @@ Features
 
   -Reusable UI components
 
-Decisions & Trade-offs
+## Decisions & Trade-offs
 
   -Frontend-only authentication for simplicity and easy demo
   
